@@ -1,0 +1,13 @@
+{
+  "createUser": {
+    "name": "Hirak2",
+    "email": "hirak2@mail.com",
+    "job": "QA Engineer2"
+  },
+
+  "updateUser": {
+    "name": "Hirak Updated2",
+    "email": "hirak2Updated@mail.com",
+    "job": "Senior QA Engineer2"
+  }
+}
